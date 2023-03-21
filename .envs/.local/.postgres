@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=django_fitness
+POSTGRES_USER=ZZhmlbPtHlhWEgOARgFsgXJoZBrYYwFF
+POSTGRES_PASSWORD=tptgl459wJjTZSKCR9CaIAGIy5VvReWuYGEb2PPV22BlZ7uolEMeHYZXdEqykCJr
