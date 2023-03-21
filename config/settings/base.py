@@ -79,6 +79,8 @@ THIRD_PARTY_APPS = [
 LOCAL_APPS = [
     "django_fitness.users",
     # Your stuff: custom apps go here
+    "django_fitness.fitness",
+
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
