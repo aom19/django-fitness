@@ -42,11 +42,7 @@ http:
         certResolver: letsencrypt
 
     flower-secure-router:
-      rule: "Host(`mail.com
-
-
-
-`)"
+      rule: "Host(`example.com`)"
       entryPoints:
         - flower
       service: flower
